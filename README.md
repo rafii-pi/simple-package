@@ -1,7 +1,7 @@
 
 # simple-package
 
-simple package as learning material containing mathematical and physics operations using python language.
+simple package as learning material containing math and physics operations using python language.
 
 windows user only!
 
