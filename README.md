@@ -9,6 +9,13 @@ because there is a possibility that the program cannot run or error material if 
 
 Enjoy><
 
+## Installation
+
+Jalankan program pada file "main.py" didalam package_sederhana menggunakan compiler yang sudah terinstall bahasa pemrograman python
+```bash
+- python3 main.py
+```
+
 ## Authors
 
 - [@rafii-pii](https://github.com/rafii-pi)
