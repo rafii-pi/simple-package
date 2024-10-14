@@ -15,6 +15,10 @@ Jalankan program pada file "main.py" didalam package_sederhana menggunakan compi
 ```bash
 - python3 main.py
 ```
+or
+```bash
+- py main.py
+```
 
 ## Authors
 
