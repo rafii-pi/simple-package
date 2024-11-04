@@ -11,7 +11,7 @@ Enjoy><
 
 ## Installation
 
-Jalankan program pada file "main.py" didalam package_sederhana menggunakan compiler yang sudah terinstall bahasa pemrograman python
+Jalankan program pada file "main.py" didalam package_sederhana menggunakan terminal yang sudah terinstall bahasa pemrograman python
 ```bash
 - python3 main.py
 ```
